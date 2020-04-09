@@ -1,1 +1,1 @@
-# scrookbot-discord.py
+# SCROOKBOT | Discord.py
