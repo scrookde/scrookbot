@@ -1,1 +1,1 @@
-tkn = "INPUT UR TOKEN"
+tkn = ""
